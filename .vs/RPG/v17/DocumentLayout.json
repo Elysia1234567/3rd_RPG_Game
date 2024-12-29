@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\spline\\searchplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|c:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\rpg\\assets\\scripts\\gittest\\gittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gittest\\gittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|c:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\rpg\\assets\\scripts\\spline\\searchplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spline\\searchplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spline\\run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|c:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\rpg\\assets\\scripts\\ui\\gamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\ui\\gamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -162,11 +166,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "DialogBase.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Dialog\\DialogBase.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Dialog\\DialogBase.cs",
@@ -179,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "DialogPanel.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\DialogPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\DialogPanel.cs",
@@ -192,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Test.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Dialog\\Test.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Dialog\\Test.cs",
@@ -205,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "SelectPanel.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\SelectPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\SelectPanel.cs",
@@ -218,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ChooseItem.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\ChooseItem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ChooseItem.cs",
@@ -231,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SearchPlayer.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Spline\\SearchPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Spline\\SearchPlayer.cs",
@@ -245,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Run.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Spline\\Run.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Spline\\Run.cs",
@@ -254,12 +258,11 @@
               "ViewState": "AQIAAGEAAAAAAAAAAAAjwGwAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T07:18:09.17Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "WarnPanel.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\WarnPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\WarnPanel.cs",
@@ -272,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "RunChoosePanel.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\RunChoosePanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\RunChoosePanel.cs",
@@ -285,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GamePanel.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\GamePanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GamePanel.cs",
@@ -294,8 +297,7 @@
               "ViewState": "AQIAADEAAAAAAAAAAABIwEQAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T08:52:30.677Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -303,7 +305,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "GitTest.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\GitTest\\GitTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GitTest\\GitTest.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\GitTest\\GitTest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GitTest\\GitTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:36:03.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UIMgr.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Framework\\UI\\UIMgr.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Framework\\UI\\UIMgr.cs",
@@ -315,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "E_EventType.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Framework\\EventCenter\\E_EventType.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Framework\\EventCenter\\E_EventType.cs",
@@ -327,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "SplineAnimate.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Library\\PackageCache\\com.unity.splines@2.4.0\\Runtime\\SplineAnimate.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.splines@2.4.0\\Runtime\\SplineAnimate.cs",
@@ -339,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "BeginPanel.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\BeginPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\BeginPanel.cs",
@@ -351,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "PlayerMgr.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Player\\PlayerMgr.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMgr.cs",
@@ -363,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Day1Panel.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\Day1Panel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Day1Panel.cs",
@@ -375,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ItemCell.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\ItemCell.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ItemCell.cs",
@@ -387,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "BasePanel.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Framework\\UI\\BasePanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Framework\\UI\\BasePanel.cs",
@@ -399,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Line.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\Line.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Line.cs",
@@ -411,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "ImportUtilites.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Library\\PackageCache\\com.unity.2d.psdimporter@8.0.2\\Editor\\ImportUtilites.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.2d.psdimporter@8.0.2\\Editor\\ImportUtilites.cs",
@@ -423,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "BinaryDataMgr.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\ExcelData\\BinaryDataMgr.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ExcelData\\BinaryDataMgr.cs",
@@ -435,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "DialogTrigger.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\TimeLine\\DialogTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TimeLine\\DialogTrigger.cs",
@@ -447,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "DialogMgr.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Mgr\\DialogMgr.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Mgr\\DialogMgr.cs",
@@ -459,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "PSDImporter.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Library\\PackageCache\\com.unity.2d.psdimporter@8.0.2\\Editor\\PSDImporter.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.2d.psdimporter@8.0.2\\Editor\\PSDImporter.cs",
@@ -471,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "ResMgr.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Framework\\Res\\ResMgr.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Framework\\Res\\ResMgr.cs",
@@ -483,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Begin.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Game\\Begin.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Begin.cs",
@@ -495,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "ABMgr.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Framework\\AB\\ABMgr.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Framework\\AB\\ABMgr.cs",
@@ -507,7 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "obj.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\ExcelData\\DataClass\\obj.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ExcelData\\DataClass\\obj.cs",
@@ -519,7 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Excel\u76F8\u5173\u5DE5\u5177\u4F7F\u7528\u8BF4\u660E.txt",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Editor\\Excel\\Excel\u76F8\u5173\u5DE5\u5177\u4F7F\u7528\u8BF4\u660E.txt",
               "RelativeDocumentMoniker": "Assets\\Editor\\Excel\\Excel\u76F8\u5173\u5DE5\u5177\u4F7F\u7528\u8BF4\u660E.txt",
@@ -531,7 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "DialogInfoContainer.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\ExcelData\\Container\\DialogInfoContainer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ExcelData\\Container\\DialogInfoContainer.cs",
@@ -543,7 +558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "ExcelTool.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Editor\\Excel\\ExcelTool.cs",
               "RelativeDocumentMoniker": "Assets\\Editor\\Excel\\ExcelTool.cs",
@@ -555,7 +570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "GameMgr.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Mgr\\GameMgr.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Mgr\\GameMgr.cs",
@@ -567,7 +582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "BaseManager.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Framework\\Singleton\\BaseManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Framework\\Singleton\\BaseManager.cs",
@@ -579,7 +594,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "Sheet1.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\ExcelData\\DataClass\\Sheet1.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ExcelData\\DataClass\\Sheet1.cs",
@@ -591,7 +606,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "CameraShake.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Camera\\CameraShake.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\CameraShake.cs",
@@ -603,7 +618,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "PlayerObj.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Player\\PlayerObj.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerObj.cs",
@@ -615,7 +630,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "test.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Player\\test.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\test.cs",
@@ -627,7 +642,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "SettingPanel.cs",
               "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\SettingPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\SettingPanel.cs",
