@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Dialog_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 2b503f0820c63a14b8cb63dc7dca4b67, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8475516928
+    m_Localized: Asahi......
+    m_Metadata:
+      m_Items: []
+  - m_Id: 326916312539136
+    m_Localized: Are you kidding me!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 705314172051456
+    m_Localized: "\u2014\u2014My master stood before My eyes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 705314209800192
+    m_Localized: You said you would always be there for me. Is it time to go back
+      on it!?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 705314213994496
+    m_Localized: You sober up! You don't have to bow to him at all. Stand up for
+      me now, come to my side!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 705314213994497
+    m_Localized: Her petite body stood straight, and I looked up at her majestic
+      appearance from below. From the bottom of my heart, I feel that serving her
+      is something I am proud of.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 705314213994498
+    m_Localized: But if I had to use her...... Use the great future of my favorite
+      person as a shield for myself.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 705314222383104
+    m_Localized: No way...... I can't ruin Mistress Luna's future. I can do anything
+      for this.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 705314222383105
+    m_Localized: Don't get caught up in your self-sacrifice, you think it's for my
+      good? If I want to choose the future, having you by my side is the absolute
+      condition for me to have glory in the future!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 705314222383106
+    m_Localized: I understand. I also want to serve by your side. I can also feel
+      how much you need me. You are also indispensable to me.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 705314222383107
+    m_Localized: But even if you force me with a knife...... I can't say anything
+      like that for you to leave this academy with me!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 705314222383108
+    m_Localized: I must not ask you to give up on the future......
+    m_Metadata:
+      m_Items: []
+  - m_Id: 705314222383109
+    m_Localized: Asahi...... Right?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 705314222383110
+    m_Localized: However, Mistress Luna still restrained her inner turmoil and continued
+      to persuade me.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 705314222383111
+    m_Localized: That's not what it means to move forward together, does it? If I
+      am the only one on the road with a bright future, then I would rather go on
+      the rough and difficult paths.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 705314222383112
+    m_Localized: Why don't you come to my help. Why don't you make demands on me?
+      Didn't I tell you that I trusted you?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 705314226577408
+    m_Localized: We point out each other's mistakes, work together to overcome suffering,
+      and go on together even if we criticize and complain when we can't forgive
+      each other. That's how we get along, isn't it?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 705314226577409
+    m_Localized: If it's with you, I'm willing to do anything. I want you to get
+      that out of the way. Let's just say that we leave the academy together, we
+      find other ways to live together, even if it takes more time, we will definitely
+      be able to succeed together.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 705314226577410
+    m_Localized: You say...... No.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 705314226577411
+    m_Localized: The voice was heart-wrenching. It's just a mother who wants to be
+      separated from her flesh and blood.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 705314226577412
+    m_Localized: I'm begging you...... I don't want to hear your apology, I want
+      to hear you say you want to be with me.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1395463851745280
+    m_Localized: Say you're with Luna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1395463885299712
+    m_Localized: Apologize to Luna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1395463885299713
+    m_Localized: Ending one
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1395463885299714
+    m_Localized: Ending two
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

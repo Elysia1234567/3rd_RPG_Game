@@ -1,0 +1,4 @@
+repository "Deciphering@riddle-joker@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

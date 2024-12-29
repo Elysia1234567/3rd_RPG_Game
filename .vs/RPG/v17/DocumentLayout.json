@@ -1,0 +1,645 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\spline\\searchplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spline\\searchplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\spline\\run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spline\\run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|c:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\rpg\\assets\\scripts\\ui\\gamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\ui\\runchoosepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\runchoosepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\framework\\ui\\uimgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\framework\\ui\\uimgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\ui\\warnpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\warnpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\framework\\eventcenter\\e_eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\framework\\eventcenter\\e_eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\ui\\chooseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\chooseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\ui\\selectpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\selectpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\dialog\\dialogbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialog\\dialogbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Library\\PackageCache\\com.unity.splines@2.4.0\\Runtime\\SplineAnimate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.splines@2.4.0\\Runtime\\SplineAnimate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\ui\\beginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\beginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\player\\playermgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\ui\\day1panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\day1panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\ui\\itemcell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\itemcell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\framework\\ui\\basepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\framework\\ui\\basepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\ui\\dialogpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\dialogpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\ui\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\exceldata\\binarydatamgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exceldata\\binarydatamgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\timeline\\dialogtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\timeline\\dialogtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\mgr\\dialogmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mgr\\dialogmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Library\\PackageCache\\com.unity.2d.psdimporter@8.0.2\\Editor\\ImportUtilites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.2d.psdimporter@8.0.2\\Editor\\ImportUtilites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Library\\PackageCache\\com.unity.2d.psdimporter@8.0.2\\Editor\\PSDImporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.2d.psdimporter@8.0.2\\Editor\\PSDImporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\dialog\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialog\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\framework\\res\\resmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\framework\\res\\resmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\framework\\ab\\abmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\framework\\ab\\abmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\game\\begin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\begin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\exceldata\\dataclass\\obj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exceldata\\dataclass\\obj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00366C92-7ED2-FFA1-4310-E9B080B0170D}|Assembly-CSharp-Editor.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\editor\\excel\\exceltool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00366C92-7ED2-FFA1-4310-E9B080B0170D}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\excel\\exceltool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00366C92-7ED2-FFA1-4310-E9B080B0170D}|Assembly-CSharp-Editor.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\editor\\excel\\excel\u76F8\u5173\u5DE5\u5177\u4F7F\u7528\u8BF4\u660E.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{00366C92-7ED2-FFA1-4310-E9B080B0170D}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\excel\\excel\u76F8\u5173\u5DE5\u5177\u4F7F\u7528\u8BF4\u660E.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\mgr\\gamemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mgr\\gamemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\exceldata\\container\\dialoginfocontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exceldata\\container\\dialoginfocontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\framework\\singleton\\basemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\framework\\singleton\\basemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\exceldata\\dataclass\\sheet1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exceldata\\dataclass\\sheet1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\camera\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\ui\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\settingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\player\\playerobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\assets\\scripts\\player\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE8E511-D506-A1D0-E67D-923A5ED26D39}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DialogBase.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Dialog\\DialogBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Dialog\\DialogBase.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Dialog\\DialogBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Dialog\\DialogBase.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:07:07.812Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DialogPanel.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\DialogPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\DialogPanel.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\DialogPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\DialogPanel.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwEkAAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:32:05.199Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Dialog\\Test.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Dialog\\Test.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Dialog\\Test.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Dialog\\Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T11:54:04.315Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SelectPanel.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\SelectPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\SelectPanel.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\SelectPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\SelectPanel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBwAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T13:55:26.657Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChooseItem.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\ChooseItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ChooseItem.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\ChooseItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ChooseItem.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAEwCQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T12:38:28.517Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchPlayer.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Spline\\SearchPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spline\\SearchPlayer.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Spline\\SearchPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spline\\SearchPlayer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:00:37.857Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Run.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Spline\\Run.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spline\\Run.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Spline\\Run.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spline\\Run.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAjwGwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:18:09.17Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WarnPanel.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\WarnPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\WarnPanel.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\WarnPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\WarnPanel.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAswEMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:10:08.268Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RunChoosePanel.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\RunChoosePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\RunChoosePanel.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\RunChoosePanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\RunChoosePanel.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAUwE4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T02:09:13.285Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GamePanel.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\GamePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GamePanel.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\GamePanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GamePanel.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAABIwEQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T08:52:30.677Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UIMgr.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Framework\\UI\\UIMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Framework\\UI\\UIMgr.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Framework\\UI\\UIMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Framework\\UI\\UIMgr.cs",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAnwNkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T02:38:30.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "E_EventType.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Framework\\EventCenter\\E_EventType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Framework\\EventCenter\\E_EventType.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Framework\\EventCenter\\E_EventType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Framework\\EventCenter\\E_EventType.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:18:42.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SplineAnimate.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Library\\PackageCache\\com.unity.splines@2.4.0\\Runtime\\SplineAnimate.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.splines@2.4.0\\Runtime\\SplineAnimate.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Library\\PackageCache\\com.unity.splines@2.4.0\\Runtime\\SplineAnimate.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.splines@2.4.0\\Runtime\\SplineAnimate.cs",
+              "ViewState": "AQIAAI0BAAAAAAAAAAAQwJsBAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:07:56.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BeginPanel.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\BeginPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\BeginPanel.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\BeginPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\BeginPanel.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwEIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:10:48.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerMgr.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Player\\PlayerMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMgr.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Player\\PlayerMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMgr.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:45:43.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Day1Panel.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\Day1Panel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Day1Panel.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\Day1Panel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Day1Panel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T06:58:53.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ItemCell.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\ItemCell.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ItemCell.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\ItemCell.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ItemCell.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T12:06:49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BasePanel.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Framework\\UI\\BasePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Framework\\UI\\BasePanel.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Framework\\UI\\BasePanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Framework\\UI\\BasePanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:08:53.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Line.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\Line.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Line.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\Line.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Line.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:38:43.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ImportUtilites.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Library\\PackageCache\\com.unity.2d.psdimporter@8.0.2\\Editor\\ImportUtilites.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.2d.psdimporter@8.0.2\\Editor\\ImportUtilites.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Library\\PackageCache\\com.unity.2d.psdimporter@8.0.2\\Editor\\ImportUtilites.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.2d.psdimporter@8.0.2\\Editor\\ImportUtilites.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T12:30:17.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BinaryDataMgr.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\ExcelData\\BinaryDataMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ExcelData\\BinaryDataMgr.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\ExcelData\\BinaryDataMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ExcelData\\BinaryDataMgr.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:37:19.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DialogTrigger.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\TimeLine\\DialogTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TimeLine\\DialogTrigger.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\TimeLine\\DialogTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TimeLine\\DialogTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:28:51.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DialogMgr.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Mgr\\DialogMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mgr\\DialogMgr.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Mgr\\DialogMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mgr\\DialogMgr.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:01:54.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PSDImporter.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Library\\PackageCache\\com.unity.2d.psdimporter@8.0.2\\Editor\\PSDImporter.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.2d.psdimporter@8.0.2\\Editor\\PSDImporter.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Library\\PackageCache\\com.unity.2d.psdimporter@8.0.2\\Editor\\PSDImporter.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.2d.psdimporter@8.0.2\\Editor\\PSDImporter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T12:29:44.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ResMgr.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Framework\\Res\\ResMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Framework\\Res\\ResMgr.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Framework\\Res\\ResMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Framework\\Res\\ResMgr.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAApwDwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:09:47.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Begin.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Game\\Begin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Begin.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Game\\Begin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Begin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:21:11.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ABMgr.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Framework\\AB\\ABMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Framework\\AB\\ABMgr.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Framework\\AB\\ABMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Framework\\AB\\ABMgr.cs",
+              "ViewState": "AQIAAL4AAAAAAAAAAAAlwLAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:00:17.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "obj.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\ExcelData\\DataClass\\obj.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ExcelData\\DataClass\\obj.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\ExcelData\\DataClass\\obj.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ExcelData\\DataClass\\obj.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:04:33.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Excel\u76F8\u5173\u5DE5\u5177\u4F7F\u7528\u8BF4\u660E.txt",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Editor\\Excel\\Excel\u76F8\u5173\u5DE5\u5177\u4F7F\u7528\u8BF4\u660E.txt",
+              "RelativeDocumentMoniker": "Assets\\Editor\\Excel\\Excel\u76F8\u5173\u5DE5\u5177\u4F7F\u7528\u8BF4\u660E.txt",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Editor\\Excel\\Excel\u76F8\u5173\u5DE5\u5177\u4F7F\u7528\u8BF4\u660E.txt",
+              "RelativeToolTip": "Assets\\Editor\\Excel\\Excel\u76F8\u5173\u5DE5\u5177\u4F7F\u7528\u8BF4\u660E.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-10T15:43:22.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DialogInfoContainer.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\ExcelData\\Container\\DialogInfoContainer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ExcelData\\Container\\DialogInfoContainer.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\ExcelData\\Container\\DialogInfoContainer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ExcelData\\Container\\DialogInfoContainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:47:30.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ExcelTool.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Editor\\Excel\\ExcelTool.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\Excel\\ExcelTool.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Editor\\Excel\\ExcelTool.cs",
+              "RelativeToolTip": "Assets\\Editor\\Excel\\ExcelTool.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAawKoAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:31:53.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GameMgr.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Mgr\\GameMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mgr\\GameMgr.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Mgr\\GameMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mgr\\GameMgr.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:01:49.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BaseManager.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Framework\\Singleton\\BaseManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Framework\\Singleton\\BaseManager.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Framework\\Singleton\\BaseManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Framework\\Singleton\\BaseManager.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAawCgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:27:27.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Sheet1.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\ExcelData\\DataClass\\Sheet1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ExcelData\\DataClass\\Sheet1.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\ExcelData\\DataClass\\Sheet1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ExcelData\\DataClass\\Sheet1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:47:24.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CameraShake.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Camera\\CameraShake.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\CameraShake.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Camera\\CameraShake.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\CameraShake.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwEYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:50:04.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PlayerObj.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Player\\PlayerObj.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerObj.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Player\\PlayerObj.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerObj.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAEwEAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:18:18.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "test.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Player\\test.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\test.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\Player\\test.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\test.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwEIAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T10:55:26.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SettingPanel.cs",
+              "DocumentMoniker": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\SettingPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\SettingPanel.cs",
+              "ToolTip": "C:\\101\u7409\u7483\u5BC6\u5F55\\\u94F6\u72FC\u9A87\u5BA2\u96C6\\\u897F\u4E8C\u5728\u7EBF\\unity\\\u9879\u76EE\\RPG\\Assets\\Scripts\\UI\\SettingPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\SettingPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:41:37.666Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

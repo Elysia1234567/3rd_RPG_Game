@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 4029030025
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 951d125f417ab91f1b4e412c53fc6eb3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9372662e05ede815898c391bbc5766da
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 951d125f417ab91f1b4e412c53fc6eb3
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/TextMesh Pro/Resources/Fonts & Materials/\u971E\u9E5C\u6587\u6977.ttf"
+Dependencies: []

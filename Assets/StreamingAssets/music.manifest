@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 240235522
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d6b97f85114dcd5481f98bf48faaee8c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d6b97f85114dcd5481f98bf48faaee8c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Editor/ArtRes/music/Begin.mp3
+- Assets/Editor/ArtRes/music/HighLight.mp3
+- Assets/Editor/ArtRes/music/Sad.mp3
+Dependencies: []
